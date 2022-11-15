@@ -4,7 +4,7 @@ Version: 0.0.0.9000
 Authors@R: 
     person("Nakai", "Zemer", , "N@kai.do", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-7992-0701"))
-Description: What the package does (one paragraph).
+Description: Common functions I use regularly for data ETL and visualization.
 License: `use_gpl3_license()`
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
