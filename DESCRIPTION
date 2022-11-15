@@ -1,5 +1,5 @@
-Package: tools
-Title: tools
+Package: rkaido
+Title: rkaido
 Version: 0.0.0.9000
 Authors@R: 
     person("Nakai", "Zemer", , "N@kai.do", role = c("aut", "cre"),
