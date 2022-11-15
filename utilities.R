@@ -1,3 +1,7 @@
+library(devtools)
+library(roxygen2)
+
+devtools::create("tools")
 
 min_max <- function(x, ...) {
   return((x - min(x, ...)) /(max(x, ...) - min(x, ...)))
