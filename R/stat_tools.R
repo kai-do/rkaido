@@ -1,4 +1,4 @@
 #' @export
-sd_pop <- function(x) {
-  sd(x) * sqrt((length(x) - 1) / length(x))
+sd <- function(x, dof = 0) {
+  sd(x) * sqrt((length(x) - dof) / length(x))
 }
